@@ -19,3 +19,6 @@ else {<br />
   order Coffee();<br />
 }
 
+###“If you think math is hard, try web design.”<br />
+– Trish Parr
+
