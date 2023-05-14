@@ -9,3 +9,13 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 
+### Always remember ☕️
+
+if(brain!=empty)
+{
+  keepCoding();
+}
+else {
+  order Coffee();
+}
+
